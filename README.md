@@ -1,11 +1,10 @@
 Role Name
 =========
-# Ansible Role: Grafana-Prometheus-Node Exporter
+# Ansible Role: ansible-role-docker-pritunl
 [![PrimeOps-Technologies](https://img.shields.io/badge/Made%20By-PrimeOps-blue?style=flat-square&logo=ansible)](https://primeops.co.in)
 [![Ansible](https://img.shields.io/badge/Ansible-2.9%2B-green.svg?logo=ansible)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
-An Ansible role that installs and configures **Grafana**, **Prometheus**, and **Node Exporter** to provide a self-hosted monitoring and metrics stack.
 
 ---
 ## 🏢 About PrimeOps-Technologies
@@ -21,13 +20,12 @@ An Ansible role that installs and configures **Grafana**, **Prometheus**, and **
 ## 📁 Directory Structure
 
 ```
-nginx-php7.4/
+ansible-role-docker-pritunl/
 ├── defaults/main.yml
 ├── handlers/main.yml
 ├── meta/main.yml
 ├── tasks/main.yml
 ├── templates/config/pritunl.conf
-├── templates/index.php
 └── LICENSE
 ```
 
