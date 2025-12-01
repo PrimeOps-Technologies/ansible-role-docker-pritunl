@@ -26,7 +26,7 @@ nginx-php7.4/
 ├── handlers/main.yml
 ├── meta/main.yml
 ├── tasks/main.yml
-├── templates/nginx.conf.j2
+├── templates/config/pritunl.conf
 ├── templates/index.php
 └── LICENSE
 ```
